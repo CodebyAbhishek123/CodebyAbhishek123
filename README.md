@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Abhishek Kumar
-**A passionate Web Development focused on building scalable and user-centric apllication. Full stack developer turing ideas into clean, efficient code **
+A passionate Web Development focused on building scalable and user-centric apllication. Full stack developer turing ideas into clean, efficient code
 
 Email Me 👉 ✉️ **abhishekkumar04158@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
