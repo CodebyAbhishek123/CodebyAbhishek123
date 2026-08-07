@@ -1,44 +1,159 @@
-# 💫 Hi 👋, I'm Abhishek Kumar
-A passionate Web Development focused on building scalable and user-centric apllication. Full stack developer turing ideas into clean, efficient code
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" alt="Abhishek Kumar Banner" width="100%" />
+</p>
 
-Email Me 👉 ✉️ **abhishekkumar04158@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-- 🔭 **I’m currently working on:** Real-world MERN project. Rest APIs & backend Logic
-- 🌱 **I’m currently learning:** MERN stack
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** abhishekkumar04158@gmail.com
-- ⚡ **Fun fact:** I break code just to learn how to fix it better
-- Improving DSA & Problem-solving skills
-- 🎯 Current Goals:
-- Master MERN stack development
-- Build production-level applications
-- Contribute to open-source projects
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhishekkumar0366) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_abhishek_x07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-63b97b315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekkumar04158@gmail.com) 
+<h3 align="center">
+🚀 Full Stack MERN Developer | 📊 Data Analytics Enthusiast | 🤖 AI & Generative AI Learner
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodebyAbhishek123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodebyAbhishek123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyAbhishek123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+Building scalable web applications, backend systems, and AI-powered solutions that solve real-world problems.
+</p>
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodebyAbhishek123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodebyAbhishek123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/CodebyAbhishek123">
+    <img src="https://komarev.com/ghpvc/?username=CodebyAbhishek123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodebyAbhishek123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Full Stack MERN Developer
+- 🚀 Passionate about Backend Development & Scalable Web Applications
+- 📊 Data Analytics Enthusiast
+- 🤖 Exploring AI & Generative AI
+- 🌱 Always learning new technologies
+- ⚡ Open to collaborating on Full Stack, AI & Open Source projects
+
+---
+
+## 🏆 Achievements
+
+🥇 Smart India Hackathon (SIH) 2025 Grand Finalist
+
+💡 Presented **Innowati** at **YMCA Shark Tank**
+
+🚀 Passionate about solving real-world problems using technology
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ Gym-Pro
+A Full Stack Gym Management System.
+
+✨ Features
+- Workout Planner
+- Diet Planner
+- Authentication
+- Exercise Tracking
+- Admin Dashboard
+
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js
+
+---
+
+### 🌾 AgriSense
+
+AI-powered livestock farming platform developed for **Smart India Hackathon 2025**.
+
+✨ Features
+- AI Disease Detection
+- Smart Monitoring
+- Farmer Dashboard
+- Data Analytics
+
+**Tech Stack:** MERN Stack • AI Integration
+
+---
+
+### 📊 Hospital Patient Analysis
+
+A complete Data Analytics project.
+
+✨ Features
+- Data Cleaning
+- Exploratory Data Analysis
+- Interactive Power BI Dashboard
+- Revenue & Patient Insights
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Power BI • Tableau
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![JavaScript](https://skillicons.dev/icons?i=javascript,python,java,cpp)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CodebyAbhishek123&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodebyAbhishek123&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyAbhishek123&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CodebyAbhishek123&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodebyAbhishek123&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishek-kumar-63b97b315">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="mailto:abhishekkumar04158@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+</p>
+
+📧 **Email:** abhishekkumar04158@gmail.com
+
+---
+
+<h3 align="center">
+⭐ Turning Ideas into Real-World Solutions with Code ⭐
+</h3>
