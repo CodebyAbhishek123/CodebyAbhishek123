@@ -1,48 +1,50 @@
-#  Hi, I'm Abhishek Kumar
+# Hi, I'm Abhishek Kumar 👋
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Abhishek Kumar Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Backend+Developer;Data+Analytics+Enthusiast;AI+%26+Generative+AI+Explorer;Building+Real-World+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Developer;Data+Analytics+Enthusiast;Exploring+AI+%26+Generative+AI;Building+Real-World+Solutions;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodebyAbhishek123">
-    <img src="https://komarev.com/ghpvc/?username=CodebyAbhishek123&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=CodebyAbhishek123&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### 💻 Full Stack MERN Developer | Backend Developer | Data Analytics Enthusiast
 
-```text
-class AbhishekKumar {
+🚀 Building scalable web applications and real-world solutions
+🤖 Exploring AI & Generative AI
+📊 Learning Data Analytics & Data Visualization
+🏆 Smart India Hackathon 2025 Grand Finalist
+🌱 Always learning, building, and experimenting with new technologies
 
-  role        = "Full-Stack MERN Developer | Backend Developer";
-  education   = "B.E. Computer Engineering";
+---
 
-  stack       = ["JavaScript", "React", "Next.js", "Node.js",
-                 "Express.js", "MongoDB", "Firebase"];
+## 👨‍💻 About Me
 
-  cloud       = ["AWS", "Docker"];
+🎓 Computer Engineering Student
 
-  analytics   = ["Python", "Pandas", "NumPy", "Matplotlib",
-                 "Power BI", "Tableau"];
+💻 Full Stack **MERN Developer**
 
-  highlight   = ["SIH 2025 Grand Finalist",
-                 "Presented Innowati at IIC Shark Tank",
-                 "ISRO Sarabhai Space Exhibition"];
+🚀 Passionate about **Backend Development & REST APIs**
 
-  currently   = "Building scalable applications & exploring AI";
+📊 Exploring **Data Analytics, Data Visualization & Business Intelligence**
 
-  interests   = ["Backend Engineering", "Data Analytics",
-                 "Generative AI", "Open Source"];
+🤖 Exploring **AI & Generative AI**
 
-}
-# 🛠️ Tech Stack
+🧠 Practicing **DSA & Problem Solving**
+
+🌱 Constantly learning and building impactful projects
+
+⚡ Open to **internships, collaborations & open-source contributions**
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -112,7 +114,7 @@ class AbhishekKumar {
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏋️ GYM-PRO
 
@@ -150,7 +152,7 @@ Built using **Monaco Editor, Yjs and Socket.IO** for real-time synchronization.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 🥇 **Smart India Hackathon 2025 — Grand Finalist**
 
@@ -232,8 +234,8 @@ Technical team member — contributed to explaining ISRO missions and space tech
 <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:[abhishekkumar041582@gmail.com](mailto:abhishekkumar04158@gmail.com)">
-<img src="https://img.shields.io/badge/Email-abhishekkumar041582-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:abhishekkumar041582@gmail.com">
+<img src="https://img.shields.io/badge/Email-abhishekkumar04158-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -248,8 +250,14 @@ Technical team member — contributed to explaining ISRO missions and space tech
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=00C6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Keep+Shipping+%F0%9F%92%BB" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=CodebyAbhishek123&label=Profile%20Views&color=0e75b6&style=flat"/>
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
