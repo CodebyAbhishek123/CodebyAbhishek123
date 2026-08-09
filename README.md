@@ -220,7 +220,7 @@ Technical team member — contributed to explaining ISRO missions and space tech
 <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:[abhishekkumar041582@gmail.com](mailto:abhishekkumar041582@gmail.com)">
+<a href="mailto:[abhishekkumar041582@gmail.com](mailto:abhishekkumar04158@gmail.com)">
 <img src="https://img.shields.io/badge/Email-abhishekkumar041582-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
