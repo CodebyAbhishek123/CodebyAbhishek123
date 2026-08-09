@@ -1,35 +1,47 @@
 #  Hi, I'm Abhishek Kumar
 
-### 💻 Full Stack MERN Developer | Backend Developer | Data Analytics Enthusiast
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Abhishek Kumar Banner"/>
+</p>
 
-🚀 Building scalable web applications and real-world solutions
-🤖 Exploring AI & Generative AI
-📊 Learning Data Analytics & Data Visualization
-🏆 Smart India Hackathon 2025 Grand Finalist
-🌱 Always learning, building, and experimenting with new technologies
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Backend+Developer;Data+Analytics+Enthusiast;AI+%26+Generative+AI+Explorer;Building+Real-World+Solutions" alt="Typing SVG"/>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 Computer Engineering Student
-
-💻 Full Stack **MERN Developer**
-
-🚀 Passionate about **Backend Development & REST APIs**
-
-📊 Exploring **Data Analytics, Data Visualization & Business Intelligence**
-
-🤖 Exploring **AI & Generative AI**
-
-🧠 Practicing **DSA & Problem Solving**
-
-🌱 Constantly learning and building impactful projects
-
-⚡ Open to **internships, collaborations & open-source contributions**
+<p align="center">
+  <a href="https://github.com/CodebyAbhishek123">
+    <img src="https://komarev.com/ghpvc/?username=CodebyAbhishek123&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
+# 👨‍💻 About Me
+
+```text
+class AbhishekKumar {
+
+  role        = "Full-Stack MERN Developer | Backend Developer";
+  education   = "B.E. Computer Engineering";
+
+  stack       = ["JavaScript", "React", "Next.js", "Node.js",
+                 "Express.js", "MongoDB", "Firebase"];
+
+  cloud       = ["AWS", "Docker"];
+
+  analytics   = ["Python", "Pandas", "NumPy", "Matplotlib",
+                 "Power BI", "Tableau"];
+
+  highlight   = ["SIH 2025 Grand Finalist",
+                 "Presented Innowati at IIC Shark Tank",
+                 "ISRO Sarabhai Space Exhibition"];
+
+  currently   = "Building scalable applications & exploring AI";
+
+  interests   = ["Backend Engineering", "Data Analytics",
+                 "Generative AI", "Open Source"];
+
+}
 # 🛠️ Tech Stack
 
 ### 💻 Languages
