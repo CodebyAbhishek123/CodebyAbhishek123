@@ -201,12 +201,14 @@ Technical team member — contributed to explaining ISRO missions and space tech
 
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodebyAbhishek123/CodebyAbhishek123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/CodebyAbhishek123/CodebyAbhishek123/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
 </p>
-
 ---
 
 # 📊 My Coding Activity
