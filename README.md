@@ -1,16 +1,25 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+    alt="Abhishek Kumar Animated Header"
+  />
+</p>
+
 # Hi, I'm Abhishek Kumar 👋
+
 
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Developer;Data+Analytics+Enthusiast;AI+%26+Generative+AI+Explorer;Building+Real-World+Solutions;Always+Learning+%26+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Backend+Developer;Data+Analytics+Enthusiast;AI+%26+Generative+AI+Explorer;SIH+2026+Finalist;Innowati+%7C+IIC+Shark+Tank+%7C+YMCA;Building+Real-World+Solutions;Always+Learning+%26+Building"
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
 
-  <a href="mailto:abhishekkumar041582@gmail.com">
+  <a href="mailto:abhishekkumar04158@gmail.com">
     <img
       src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
@@ -33,13 +42,6 @@
 
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=CodebyAbhishek123&label=Profile%20Views&color=6C63FF&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
 ## 💻 Full Stack MERN Developer | Backend Developer | Data Analytics Enthusiast
@@ -54,21 +56,26 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering Student
+🎓 **Computer Engineering Student** | **CGPA: 7.0/10**
 
-💻 Full Stack **MERN Developer**
+💻 **Full Stack MERN Developer** with a strong focus on **Backend Development, REST APIs, Authentication & Database Design**.
 
-🚀 Passionate about **Backend Development & REST APIs**
+🏆 **Smart India Hackathon 2026 Finalist**, working on innovative technology-driven solutions.
 
-📊 Exploring **Data Analytics, Data Visualization & Business Intelligence**
+🚀 **Innowati Presenter** at **IIC Shark Tank, J.C. Bose University of Science and Technology, YMCA**.
 
-🤖 Exploring **AI & Generative AI**
+📊 Exploring **Data Analytics, Data Visualization & Business Intelligence** using Python, Pandas, NumPy, Matplotlib, Power BI and Tableau.
 
-🧠 Practicing **DSA & Problem Solving**
+🤖 Exploring **AI, Machine Learning & Generative AI** and interested in integrating AI into real-world web applications.
 
-🌱 Constantly learning and building impactful projects
+🧠 Practicing **Data Structures & Algorithms** to strengthen problem-solving and programming skills.
 
-⚡ Open to **internships, collaborations & open-source contributions**
+☁️ Learning **Docker, AWS, Cloud Deployment & scalable application development**.
+
+🌱 Always learning, building, experimenting and improving through real-world projects.
+
+🤝 Open to **internships, collaborations, open-source contributions and exciting tech opportunities**.
+
 
 ---
 
