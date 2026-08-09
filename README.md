@@ -1,17 +1,5 @@
 # Hi, I'm Abhishek Kumar 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Developer;Data+Analytics+Enthusiast;Exploring+AI+%26+Generative+AI;Building+Real-World+Solutions;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-# Hi, I'm Abhishek Kumar 👋
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Abhishek Kumar Banner"/>
-</p>
 
 <p align="center">
   <img
