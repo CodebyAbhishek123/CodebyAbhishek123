@@ -13,6 +13,39 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Abhishek Kumar Banner"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Backend+Developer;Data+Analytics+Enthusiast;AI+%26+Generative+AI+Explorer"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <a href="mailto:abhishekkumar041582@gmail.com">
+    <img
+      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abhishek-kumar-63b97b315">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/CodebyAbhishek123">
+    <img
+      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
 ### 💻 Full Stack MERN Developer | Backend Developer | Data Analytics Enthusiast
 
