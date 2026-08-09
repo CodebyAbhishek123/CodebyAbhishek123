@@ -167,11 +167,20 @@ Technical team member — contributed to explaining ISRO missions and space tech
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodebyAbhishek123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyAbhishek123&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=CodebyAbhishek123&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodebyAbhishek123&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
